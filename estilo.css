@@ -1,0 +1,38 @@
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    box-sizing: border-box;
+    border: 1px solid black;
+}
+thead {
+    width: 100%;
+    border-collapse: collapse;
+    box-sizing: border-box;
+    border: 1px solid black;
+}
+tbody {
+    width: 100%;
+    border-collapse: collapse;
+    box-sizing: border-box;
+    border: 1px solid black;
+}
+tfoot {
+    width: 100%;
+    border-collapse: collapse;
+    box-sizing: border-box;
+    border: 1px solid black;
+}
+th {
+    width: 100%;
+    border-collapse: collapse;
+    box-sizing: border-box;
+    border: 1px solid black;
+    
+}
+td {
+    width: 100%;
+    border-collapse: collapse;
+    box-sizing: border-box;
+    border: 1px solid black;
+}
